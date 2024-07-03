@@ -2,12 +2,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+#project files skipping
 *.pt
 *.pth
 *.md
 run_video.py
 run_video_live.py
 dnd_live.py
+
+#----------------
 
 # C extensions
 *.so
