@@ -7,9 +7,6 @@ __pycache__/
 *.pt
 *.pth
 *.md
-run_video.py
-run_video_live.py
-dnd_live.py
 
 #----------------
 
