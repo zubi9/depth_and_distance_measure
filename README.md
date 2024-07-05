@@ -16,6 +16,14 @@ Measuring the gap between two objects is known as distance calculation within a 
 
 ## Usage
 
+<p align="center">
+    <img src="assets/Screenshot from 2024-07-03 15-45-04.png" alt="Depth estimation and object detection" width="600">
+</p>
+
+<p align="center">
+    <img src="assets/Screenshot from 2024-07-06 01-24-59.png" alt="Depth map gradion app" width="600">
+</p>
+
 ### Prerequisites
 
 #### Pre-trained Models
@@ -99,5 +107,5 @@ If you find this project useful, please consider citing:
 - Yolo v8: [Ultralytics GitHub](https://github.com/ultralytics/ultralytics)
 
 ## Linces
--  Apache License
--  GNU License
+-  [Apache License](LICENSE)
+-  [GNU License]
